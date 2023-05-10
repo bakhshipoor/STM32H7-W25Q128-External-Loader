@@ -16,3 +16,13 @@
 ### 
 ### 
 ![2](https://github.com/bakhshipoor/STM32H7-W25Q128-External-Loader/assets/2270529/f2cebaa4-2a4b-461a-8db6-e9037db31386)
+
+## Project Properties
+### cmd.exe /C copy/Y "${BuildArtifactFileBaseName}.elf" "..\W25Q128_STM32H7B0VBT6.stldr"
+###
+![3](https://github.com/bakhshipoor/STM32H7-W25Q128-External-Loader/assets/2270529/558aa98c-c969-4c67-9065-412d4892bd8a)
+###
+### Unchek "Discard Unused Sections (-WL,--gc-sections)"
+###
+![4](https://github.com/bakhshipoor/STM32H7-W25Q128-External-Loader/assets/2270529/3cc9c5a8-c4b7-4ae5-b78f-5ebd7b74bf25)
+
