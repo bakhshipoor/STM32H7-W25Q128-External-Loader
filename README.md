@@ -24,7 +24,7 @@
 ###
 ### 
 ### 
-### Change Linker Script file. Click Browse and chose "linker.ld"
+### Change Linker Script file. Click Browse and choose "linker.ld"
 ### Unchek "Discard Unused Sections (-WL,--gc-sections)"
 ###
 ![4](https://github.com/bakhshipoor/STM32H7-W25Q128-External-Loader/assets/2270529/3cc9c5a8-c4b7-4ae5-b78f-5ebd7b74bf25)
